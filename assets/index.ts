@@ -1,7 +1,7 @@
-import MediaPlayer from './MediaPlayer';
-import AutoPlay from './plugins/AutoPlay'
-import AutoPause from './plugins/AutoPause'
-import Ads from './plugins/Ads'
+import MediaPlayer from '@marcoetmx/mediaplayer';
+import AutoPlay from '@marcoetmx/mediaplayer/lib/AutoPlay'
+import AutoPause from '@marcoetmx/mediaplayer/lib/AutoPause'
+import Ads from '@marcoetmx/mediaplayer/lib/plugins/Ads'
 
 
 const video = document.querySelector("video");

@@ -104,3 +104,4 @@ dist
 # Temporary folders
 tmp/
 temp/
+.now
